@@ -3,11 +3,11 @@
 ### 03 - Estatística com Python: frequências e medidas
 
 #### 01 - Qual o seu tipo de dado?
-*A identificar a versão de uma biblioteca do Python.
-*A ler um dataset no formato CSV e criar um DataFrame pandas, com o conteúdo deste dataset.
-*A identificar e classificar as variáveis de um dataset como quantitativas ou qualitativas.
-*Que as variáveis qualitativas se dividem em ordinais e nominais.
-*Que as variáveis quantitativas se dividem em discretas e contínuas.
+  - A identificar a versão de uma biblioteca do Python.
+  - A ler um dataset no formato CSV e criar um DataFrame pandas, com o conteúdo deste dataset.
+  - A identificar e classificar as variáveis de um dataset como quantitativas ou qualitativas.
+  - Que as variáveis qualitativas se dividem em ordinais e nominais.
+  - Que as variáveis quantitativas se dividem em discretas e contínuas.
 
 #### 02 - Distribuição de frequência
 *A criar distribuições de frequências (tabelas de frequências) com a função value_counts() do pandas.
